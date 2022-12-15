@@ -10,8 +10,19 @@ Customizable reports to focus on specific products or customer segments
 Getting Started
 To use the consumer purchase analysis tool, you will need to upload your customer data in a CSV format. The tool will then process the data and provide a detailed report on your customers' purchasing behavior.
 
+
+* CustomerID: It unique number to identify each customer. It categorical variable.
+* Gender: It is a categorical variable that contains male and female customers.
+* Age of customers which ranges between 19 years to 80 years old. It is numerical.
+* Income of customers between $15,000 and $240,000. It is numerical.
+* Purchasing % between 1 and 100 for each customer. It is numerical
+
 ## Example Report
 Here is an example of the type of report that the consumer purchase analysis tool can generate:
+
+![consumer purchase analysis](C:\Users\muski\Desktop\Monday02\Report.jpg)
+
+**
 
 
 ## Conclusion
